@@ -1,0 +1,15 @@
+ITEMS AVAILABLE UNITPRICE
+kiwi 70 70
+cabbage 55 100
+toothbrush 30 50
+bag 15 1000
+slipper 10 200
+tomato 20 100
+orange 60 50
+tea 298 100
+fuse 10 50
+apple 80 97
+waterbottle 150 200
+coffee 20 50
+pen 55 10
+watermelon 20 50
